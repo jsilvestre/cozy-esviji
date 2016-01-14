@@ -1,7 +1,7 @@
 {
   "name": "esviji",
   "cozy-type": "static",
-  "displayName": "eviji",
+  "displayName": "esviji",
   "version": "1.15.2",
   "description": "Puzzle game in which you have to destroy balls based on their color and place on the board",
   "repository": {
