@@ -1,0 +1,12 @@
+{
+  "name": "esviji",
+  "cozy-type": "static",
+  "displayName": "eviji",
+  "version": "1.15.2",
+  "description": "Puzzle game in which you have to destroy balls based on their color and place on the board",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankrousseau/2048.git"
+  },
+  "main": "index.html"
+}
