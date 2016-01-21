@@ -8,5 +8,6 @@
     "type": "git",
     "url": "https://github.com/frankrousseau/2048.git"
   },
+  "icon-path": "./img/esviji-logo.png",
   "main": "index.html"
 }
